@@ -3,4 +3,7 @@ class second{
         System.out.println("second");
         System.out.println("this is the change in feature 1 branch");
     }
+    public void func(){
+        System.out.println("this is the function in feature1");
+    }
 }
